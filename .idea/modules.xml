@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DynamicWeb01/DynamicWeb01.iml" filepath="$PROJECT_DIR$/DynamicWeb01/DynamicWeb01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IDEA入门.iml" filepath="$PROJECT_DIR$/IDEA入门.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDEAlearning.iml" filepath="$PROJECT_DIR$/IDEAlearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
     </modules>
   </component>
 </project>
